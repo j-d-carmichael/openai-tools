@@ -8,6 +8,7 @@ On this platform, you'll find a wide array of tools, ranging from the **useful**
 
 In addition it would a worthy note that this intro was crafted by ChatGPT 4.
 
+
 ## Contribute to the Community
 
 The OpenAI Tools Discovery Platform is an **open-source** initiative, and we encourage active participation from the community. If you have discovered a tool that you think deserves a spot on our list, or if you have developed something amazing using OpenAI, we would love to showcase it here!
