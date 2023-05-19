@@ -4,6 +4,7 @@
 * [Connected Search](pages/connected-search.md)
 * [Document Creation Platforms](pages/document-creation-platforms.md)
 * [Image Apps](pages/image-apps.md)
+* [Sound](pages/sound.md)
 
 
 
