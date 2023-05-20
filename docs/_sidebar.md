@@ -6,6 +6,7 @@
 * [Content Creation Platforms](pages/content-creation-platforms.md)
 * [Connected Search](pages/connected-search.md)
 * [Image Apps](pages/image-apps.md)
+* [Run your own model](pages/run-your-own-models.md)
 * [Sound](pages/sound.md)
 
 
