@@ -5,6 +5,7 @@ Given a textual input, it will create an image for you.
 ## Adobe Firefly & Generative Fill
 
 URL: https://www.adobe.com/sensei/generative-ai/firefly.html
+
 URL: https://www.adobe.com/products/photoshop/generative-fill.html
 
 Detailed images, videos, documents, and art from simple descriptions.
