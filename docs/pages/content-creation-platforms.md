@@ -3,6 +3,13 @@
 These platforms and apps will create PDFs and other documents based on your input. Typically, the prompts are passed to
 GPT and chained to create the final output.
 
+## Ad Creative AI
+
+URL:  https://www.adcreative.ai
+
+Ads by AI... looking forward to the AI content ready to accompany this one :D
+
+
 ## Gamma
 
 URL: https://gamma.app/
