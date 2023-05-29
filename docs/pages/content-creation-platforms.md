@@ -33,6 +33,13 @@ URL: https://tome.app/
 Generate a slide deck from a prompt. Embed "live" widgets from other apps. Embed video recording notes.
 
 
+## (AI) Website Builder
+
+URL: https://10web.io/ai-website-builder/
+
+Build a landing page with AI.
+
+
 ## Writer
 
 URL: https://writer.com/
