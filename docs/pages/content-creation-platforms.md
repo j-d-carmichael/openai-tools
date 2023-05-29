@@ -32,12 +32,19 @@ URl: https://www.notion.so/product/ai
 
 AI writer sits right where you already take notes and draft writing in Notion. Similar features as others: brainstorm/summarize/draft content, change tone/length, etc.
 
+## Roop
+
+URL: https://github.com/s0md3v/roop
+
+Generate another face in a video
+
 
 ## Tome
 
 URL: https://tome.app/
 
 Generate a slide deck from a prompt. Embed "live" widgets from other apps. Embed video recording notes.
+
 
 
 ## (AI) Website Builder
