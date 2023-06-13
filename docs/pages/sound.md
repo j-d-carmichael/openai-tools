@@ -47,6 +47,8 @@ URL: https://www.podsift.com/
 
 Your podcast whisperer. It dishes out juicy summaries of your favorite podcasts.
 
-## TalkBerry: https://www.talkberry.ai
+## TalkBerry
+
+URL: https://www.talkberry.ai
 
 Your language coach. Train your speech in a new language by having a chinwag with this AI.
