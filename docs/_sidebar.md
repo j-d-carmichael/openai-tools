@@ -1,5 +1,6 @@
 * [Introduction](pages/introduction.md)
 * [AI Assistants](pages/ai-assistants.md)
+* [AI For Other Apps](pages/ai-for-other-apps.md)
 * [App Development Tools](pages/app-development-tools.md)
 * [Chat Bots](pages/chatbots.md)
 * [Command Line Tools](pages/command-line-tools.md)

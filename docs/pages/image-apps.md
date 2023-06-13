@@ -31,3 +31,16 @@ URL: https://www.midjourney.com/
 
 Generates detailed art based on prompts for objects, style, mood, and background
 Excels in dynamic range, composition, textures, and visual fidelity
+
+
+## Flair Al
+
+URL: https://flair.ai/
+
+Your personal stylist. It jazzes up your products with professional photos.
+
+
+## Lexica Al: https://lexica.art/
+
+Your graphic novel artist. It transforms texts into mind-blowing images for free.
+

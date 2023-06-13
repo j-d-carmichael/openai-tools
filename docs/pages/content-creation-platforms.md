@@ -10,6 +10,13 @@ URL:  https://www.adcreative.ai
 Ads by AI... looking forward to the AI content ready to accompany this one :D
 
 
+## Beautiful Al
+
+URL: https://www.beautiful.ai/
+
+Your creative muse. It takes simple text and transforms it into stunning presentations.
+
+
 ## Gamma
 
 URL: https://gamma.app/
@@ -47,7 +54,7 @@ Generate a slide deck from a prompt. Embed "live" widgets from other apps. Embed
 
 
 
-## (AI) Website Builder
+## Website Builder
 
 URL: https://10web.io/ai-website-builder/
 

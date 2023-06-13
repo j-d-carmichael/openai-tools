@@ -10,7 +10,6 @@ URL: https://podcast.adobe.com/
 
 Upload audio and remove background noise, upgrade quality
 
-
 ## Descript
 
 URL: https://www.descript.com/
@@ -35,3 +34,19 @@ Google's text-to-speech, been around for a little while but is getting better.
 URL: https://beta.elevenlabs.io/
 
 Clone your voice using 1 minute of audio. Generate new AI voices with a single click. Read text out loud using voice clone / AI voice.
+
+## Murf Al
+
+URL: https://murf.ai
+
+Your ventriloquist. It can turn any text into voice, how cool is that?
+
+## Podsift
+
+URL: https://www.podsift.com/
+
+Your podcast whisperer. It dishes out juicy summaries of your favorite podcasts.
+
+## TalkBerry: https://www.talkberry.ai
+
+Your language coach. Train your speech in a new language by having a chinwag with this AI.
