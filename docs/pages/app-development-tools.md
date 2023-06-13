@@ -2,6 +2,12 @@
 
 These platforms and tools assist developers in their development of websites and apps.
 
+## Landbot
+
+URL: https://landbot.io
+
+Builds chatbots
+
 ## Sttabot: https://sttabot.io/
 
 Your app genie. Turn text into AI apps without a single line of code.
