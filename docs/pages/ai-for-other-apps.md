@@ -12,6 +12,13 @@ URL: https://gptforwork.com/
 
 Your spreadsheet speedster. An extension to make your spreadsheets sing.
 
+# Humanic AI
+
+URL: https://www.humanic.ai/
+
+Sales outreach via AI hookup to your DBs
+
+
 ## Microsoft Designer
 
 URL: https://lnkd.in/gcTW59wN
