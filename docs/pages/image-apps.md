@@ -25,6 +25,13 @@ URL: https://github.com/XingangPan/DragGAN/tree/main
 Manipulate images with a mouse gesture... turn a sad face with lips closed to smiley face!
 
 
+## Kaedim
+
+URL: https://www.kaedim3d.com/
+
+Generate custom 3D models
+
+
 ## Midjourney
 
 URL: https://www.midjourney.com/

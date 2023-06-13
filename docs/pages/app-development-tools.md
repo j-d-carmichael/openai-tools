@@ -6,6 +6,12 @@ These platforms and tools assist developers in their development of websites and
 
 Your app genie. Turn text into AI apps without a single line of code.
 
+## Tool Builder
+
+URL: https://toolbuilder.ai/
+
+Not sure about the quality but builds AI apps for you.
+
 
 ## Translation Strings
 

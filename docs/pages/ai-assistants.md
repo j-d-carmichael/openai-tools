@@ -14,6 +14,12 @@ URL: https://autogpt.thesamur.ai/agi
 
 Give it a task, and then watch it go. The results are ok, but not amazing.
 
+## Bardeen
+
+URL: https://www.bardeen.ai/
+
+Bardeen is an AI automation platform to replace your repetitive tasks.
+
 ## Fireflies Al
 
 URL: https://fireflies.ai
