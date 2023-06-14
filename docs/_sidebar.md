@@ -9,6 +9,7 @@
 * [Image Apps](pages/image-apps.md)
 * [Run your own model](pages/run-your-own-models.md)
 * [Sound](pages/sound.md)
+* [Video](pages/video.md)
 
 
 
